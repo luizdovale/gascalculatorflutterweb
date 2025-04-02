@@ -1,6 +1,6 @@
 {
-    "name": "gascalculatorflutterweb",
-    "short_name": "gascalculatorflutterweb",
+    "name": "gascalculator",
+    "short_name": "gascalculator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
